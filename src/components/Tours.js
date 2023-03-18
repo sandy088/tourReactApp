@@ -8,7 +8,7 @@ function Tours({tours, removeTour}){
        
         {/* Heading */}
         <div className="flex justify-center items-center m-5 ">
-            <h2 className=" text-[30px] font-bold px-7 py-5  rounded-xl border-[3px] border-emerald-500 border-dashed">Plan with Love</h2>
+            <h2 className=" text-[30px] font-bold px-7 py-5  rounded-xl border-[3px] border-emerald-500 border-dashed">Tours Packages</h2>
         </div>
         
 
